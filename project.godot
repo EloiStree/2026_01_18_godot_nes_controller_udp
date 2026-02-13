@@ -10,9 +10,22 @@ config_version=5
 
 [application]
 
-config/name="New Game Project"
+config/name="Zero To NES"
+config/description="Play game from a NES and XBOX controller."
+config/version="2026.2.12"
+run/main_scene="uid://d25ndea2rnrfh"
 config/features=PackedStringArray("4.6", "GL Compatibility")
+run/max_fps=20
+run/low_processor_mode=true
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=800
+window/size/viewport_height=450
+window/size/borderless=true
+window/stretch/mode="canvas_items"
+window/stretch/aspect="keep_width"
 
 [physics]
 
