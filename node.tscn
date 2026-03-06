@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://rvs4mg4d3jxo"]
+
+[ext_resource type="Script" uid="uid://ybf4bgif5umu" path="res://addons/2026_01_18_gdp_nes_controller_udp/script/input/nes_input_display_button_name_id.gd" id="1_sy5k4"]
+
+[node name="Node" type="Node" unique_id=649045112]
+
+[node name="NesInputDisplayButtonNameId" type="Node" parent="." unique_id=598369614]
+script = ExtResource("1_sy5k4")
+metadata/_custom_type_script = "uid://ybf4bgif5umu"
