@@ -1,3 +1,7 @@
+[submodule "addons/2026_01_18_gdp_nes_controller_udp"]
+    path = addons/2026_01_18_gdp_nes_controller_udp
+    url = https://github.com/EloiStree/2026_01_18_gdp_nes_controller_udp.git
+
 [submodule "addons/2026_02_22_gdp_3d_macro_partition"]
-	path = addons/2026_02_22_gdp_3d_macro_partition
-	url = https://github.com/EloiStree/2026_02_22_gdp_3d_macro_partition.git
+    path = addons/2026_02_22_gdp_3d_macro_partition
+    url = https://github.com/EloiStree/2026_02_22_gdp_3d_macro_partition.git
